@@ -5,4 +5,4 @@ This project is a mobile store shopping cart built using React and Bootstrap. It
 
 ### [WebSite](https://phone-shop85.netlify.app/)
 
-https://phone-shop85.netlify.app/
+
